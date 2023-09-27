@@ -1,0 +1,5 @@
+homepage: "https://www.addressable.io/"
+documentation: "https://www.addressable.io/"
+versions:
+  - sha: f3fc5696afd35019540dc258d0b2727aa1b60c1a
+    changeNotes: Initial Version
