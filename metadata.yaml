@@ -2,9 +2,11 @@ homepage: "https://www.addressable.io/"
 documentation: "https://www.addressable.io/"
 versions:
   # Latest version
-  - sha: fbac2f1c34ffa8f88b0ab59e0b42da79f2c75560
+  - sha: 5fca2e2824df0b3d515ab982211f315d208027e5
     changeNotes: Updated Template
   # Older versions
+  - sha: fbac2f1c34ffa8f88b0ab59e0b42da79f2c75560
+    changeNotes: Updated Template
   - sha: b4389cfeb2f297a7fee0a592c681cb7bd075e8cb
     changeNotes: Updated Template
   - sha: 158c9e123dc0d47c3efc9e9cb635bedea5e62f34
